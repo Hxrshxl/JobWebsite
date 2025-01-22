@@ -26,10 +26,16 @@ const AppLayout = () => {
           />
         </div>
       </main>
+<<<<<<< HEAD
       
       <footer className="relative z-10 p-10 text-center bg-black mt-10">
         <p className="text-white">Made with 💗 by Harshal Bhagat</p>
       </footer>
+=======
+      <div className="p-10 text-center bg-gray-800 mt-10">
+        Made with 💗 by Harshal
+      </div>
+>>>>>>> 62b3b397afb2e6e77d19604c308f5bc7a896cd69
     </div>
   );
 };
